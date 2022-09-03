@@ -9,5 +9,3 @@ hope you got it right (if not, i'll let you in this time bcs idk the coding to d
 </form>
 </body>
 </html>
-Footer
-© 2022 GitHub, Inc.
